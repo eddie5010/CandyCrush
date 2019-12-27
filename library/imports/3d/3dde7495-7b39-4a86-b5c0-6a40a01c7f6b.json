@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sprite_2_LH_Highlighted",
+    "texture": "fb1416e8-2c58-41ab-ae9c-60c0182dfcce",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      95,
+      94
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      96,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

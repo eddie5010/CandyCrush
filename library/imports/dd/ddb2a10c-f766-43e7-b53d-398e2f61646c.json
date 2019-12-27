@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LevelComplete",
+    "texture": "b5aae7a3-2ee3-4f15-b208-800528324f45",
+    "atlas": "",
+    "rect": [
+      0,
+      91,
+      960,
+      295
+    ],
+    "offset": [
+      0,
+      -13.5
+    ],
+    "originalSize": [
+      960,
+      450
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

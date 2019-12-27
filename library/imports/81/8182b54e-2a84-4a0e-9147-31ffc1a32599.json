@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sprite_3_Bomb_Highlighted",
+    "texture": "df95fc2e-8610-4d96-942c-0ac48ac61802",
+    "atlas": "",
+    "rect": [
+      1,
+      8,
+      94,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      96,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
